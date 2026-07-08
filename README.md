@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/bat.gif" width="380" alt="Batman on a rooftop" />
+
 # Deyby Deras
 
 **Frontend Developer** · Angular · .NET
