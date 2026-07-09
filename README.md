@@ -21,8 +21,8 @@
 Fullstack developer based in San Pedro Sula, Honduras 🇭🇳, building admin panels and web apps at **Grupo Platino**.
 I work with Angular and React on the front and .NET on the back.
 
-- <img src="https://api.iconify.design/mdi/telescope.svg?color=%2338BDF8" height="15" align="center" /> &nbsp;Currently building multi-company admin panels and SAP-integrated CRMs
-- <img src="https://api.iconify.design/mdi/sprout.svg?color=%2338BDF8" height="15" align="center" /> &nbsp;Sharpening my .NET backend skills — migrations, EF Core, MediatR handlers
+- <img src="https://api.iconify.design/mdi/telescope.svg?color=%2338BDF8" height="15" align="center" /> &nbsp;Currently building multi-company admin panels and CRMs
+- <img src="https://api.iconify.design/mdi/sprout.svg?color=%2338BDF8" height="15" align="center" /> &nbsp;Sharpening my .NET backend skills
 - <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%2338BDF8" height="15" align="center" /> &nbsp;Fun fact: I believe Gotham needs clean code too
 
 ### Stack
