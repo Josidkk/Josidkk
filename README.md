@@ -6,11 +6,11 @@
 
 **Fullstack Developer** · Angular · .NET
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFDF00&center=true&vCenter=true&width=460&lines=It's+not+who+I+am+underneath...;...but+what+I+do+that+defines+me.+%F0%9F%A6%87)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=It's+not+who+I+am+underneath...;...but+what+I+do+that+defines+me.+%F0%9F%A6%87)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-josidk.netlify.app-FFDF00?style=flat-square&labelColor=0d1117&logo=netlify&logoColor=FFDF00)](https://josidk.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFDF00?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=FFDF00)](https://www.linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-Contact-FFDF00?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=FFDF00)](mailto:TU-CORREO@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-josidk.netlify.app-38BDF8?style=flat-square&labelColor=0d1117&logo=netlify&logoColor=38BDF8)](https://josidk.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/TU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-Contact-38BDF8?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=38BDF8)](mailto:TU-CORREO@example.com)
 
 </div>
 
@@ -21,9 +21,9 @@
 Fullstack developer building admin panels and web apps at **Grupo Platino** 🇭🇳.
 I work with Angular on the front and .NET (Clean Architecture + CQRS) on the back.
 
-- <img src="https://api.iconify.design/mdi/telescope.svg?color=%23FFDF00" height="15" align="center" /> &nbsp;Currently building multi-company admin panels and SAP-integrated CRMs
-- <img src="https://api.iconify.design/mdi/sprout.svg?color=%23FFDF00" height="15" align="center" /> &nbsp;Sharpening my .NET backend skills — migrations, EF Core, MediatR handlers
-- <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%23FFDF00" height="15" align="center" /> &nbsp;Fun fact: I believe Gotham needs clean code too
+- <img src="https://api.iconify.design/mdi/telescope.svg?color=%2338BDF8" height="15" align="center" /> &nbsp;Currently building multi-company admin panels and SAP-integrated CRMs
+- <img src="https://api.iconify.design/mdi/sprout.svg?color=%2338BDF8" height="15" align="center" /> &nbsp;Sharpening my .NET backend skills — migrations, EF Core, MediatR handlers
+- <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%2338BDF8" height="15" align="center" /> &nbsp;Fun fact: I believe Gotham needs clean code too
 
 ### Stack
 
@@ -43,7 +43,7 @@ I work with Angular on the front and .NET (Clean Architecture + CQRS) on the bac
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Josidkk&theme=dark&hide_border=true&background=0d1117&ring=FFDF00&fire=FFDF00&currStreakLabel=FFDF00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="160" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Josidkk&theme=dark&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="160" alt="streak" />
 
 </div>
 
@@ -54,5 +54,5 @@ I work with Angular on the front and .NET (Clean Architecture + CQRS) on the bac
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Josidkk&label=Profile%20views&color=FFDF00&style=flat-square" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Josidkk&label=Profile%20views&color=38BDF8&style=flat-square" alt="views" />
 </div>
