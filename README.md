@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/bat.gif" width="380" alt="Batman on a rooftop" />
+<img src="assets/bat.gif" width="520" alt="Batman on a rooftop" />
 
 # Deyby Deras
 
-**Frontend Developer** · Angular · .NET
+**Fullstack Developer** · Angular · .NET
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFDF00&center=true&vCenter=true&width=460&lines=It's+not+who+I+am+underneath...;...but+what+I+do+that+defines+me.+%F0%9F%A6%87)](https://git.io/typing-svg)
 
@@ -18,8 +18,8 @@
 
 ### About
 
-Frontend developer building admin panels and web apps at **Grupo Platino** 🇭🇳.
-I work mostly with Angular on the front and .NET (Clean Architecture + CQRS) on the back.
+Fullstack developer building admin panels and web apps at **Grupo Platino** 🇭🇳.
+I work with Angular on the front and .NET (Clean Architecture + CQRS) on the back.
 
 - 🔭 Currently building multi-company admin panels and SAP-integrated CRMs
 - 🌱 Sharpening my .NET backend skills — migrations, EF Core, MediatR handlers
@@ -42,11 +42,6 @@ I work mostly with Angular on the front and .NET (Clean Architecture + CQRS) on 
 ### Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Josidkk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFDF00&icon_color=FFDF00&text_color=c9d1d9" height="160" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josidkk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFDF00&text_color=c9d1d9" height="160" alt="languages" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Josidkk&theme=dark&hide_border=true&background=0d1117&ring=FFDF00&fire=FFDF00&currStreakLabel=FFDF00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="160" alt="streak" />
 
