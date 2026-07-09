@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/bat.gif" width="520" alt="Batman on a rooftop" />
+<img src="assets/bat.gif" width="560" alt="Batman in the fog" />
 
 # Deyby Deras
 
@@ -21,9 +21,9 @@
 Fullstack developer building admin panels and web apps at **Grupo Platino** 🇭🇳.
 I work with Angular on the front and .NET (Clean Architecture + CQRS) on the back.
 
-- 🔭 Currently building multi-company admin panels and SAP-integrated CRMs
-- 🌱 Sharpening my .NET backend skills — migrations, EF Core, MediatR handlers
-- ⚡ Fun fact: I believe Gotham needs clean code too
+- <img src="https://api.iconify.design/mdi/telescope.svg?color=%23FFDF00" height="15" align="center" /> &nbsp;Currently building multi-company admin panels and SAP-integrated CRMs
+- <img src="https://api.iconify.design/mdi/sprout.svg?color=%23FFDF00" height="15" align="center" /> &nbsp;Sharpening my .NET backend skills — migrations, EF Core, MediatR handlers
+- <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%23FFDF00" height="15" align="center" /> &nbsp;Fun fact: I believe Gotham needs clean code too
 
 ### Stack
 
